@@ -15,5 +15,5 @@ NOTES:
 You can find the token on the profile page on PT.
 The project ID is the last URI when you visit a project on PivotalTracker.
 
-
+For now, what I do is set up a web server on Android (search KWS on play.google.com), add project there and start up the webserver.
 
